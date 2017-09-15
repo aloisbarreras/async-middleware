@@ -1,0 +1,19 @@
+{
+  "name": "@aloisbarreras/async-middleware",
+  "version": "1.0.0",
+  "description": "Wraps an express.js request handler to handle async/await.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloisbarreras/async-middleware.git"
+  },
+  "author": "Alois <aloisbarreras@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloisbarreras/async-middleware/issues"
+  },
+  "homepage": "https://github.com/aloisbarreras/async-middleware#readme"
+}
